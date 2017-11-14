@@ -12,8 +12,8 @@ import javax.mail.internet.MimeMessage;
 
 public class SMTP {
 
-	public static String GMAIL_USERNAME="sumusb34@gamil.com";
-	public static String GMAIL_PASSWORD="sc5203nv!@";
+	public static String GMAIL_USERNAME;
+	public static String GMAIL_PASSWORD;
 	
 	static {
 		try{
